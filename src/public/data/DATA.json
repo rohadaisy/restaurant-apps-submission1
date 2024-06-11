@@ -1,0 +1,76 @@
+{
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Bring Your Phone Cafe",
+      "description": "Kafe modern di Medan dengan suasana yang nyaman dan penuh gaya. Menawarkan berbagai hidangan lezat yang cocok dinikmati sambil bersosialisasi atau bekerja.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+      "city": "Medan",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Run The Gun",
+      "description": "Restoran trendy di Bali yang menyajikan makanan dan minuman berkualitas tinggi. Tempat ideal untuk bersantai dan menikmati suasana tropis.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+      "city": "Bali",
+      "rating": 4.6
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Pangsit Express",
+      "description": "Tempat terbaik di Ternate untuk menikmati pangsit dan hidangan cepat saji lainnya. Menyajikan makanan dengan cita rasa autentik dan pelayanan cepat.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+      "city": "Ternate",
+      "rating": 4.8
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Ducky Duck",
+      "description": "Restoran di Malang yang menawarkan berbagai hidangan lezat dengan suasana yang hangat dan nyaman. Cocok untuk acara keluarga atau pertemuan bisnis.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+      "city": "Malang",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Kafein",
+      "description": "Kafe populer di Bali yang menawarkan kopi berkualitas tinggi dan makanan ringan yang lezat. Tempat yang sempurna untuk pecinta kopi.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+      "city": "Bali",
+      "rating": 3.8
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Makan mudah",
+      "description": "Restoran di Malang yang menyajikan berbagai hidangan lokal dan internasional dengan harga terjangkau. Tempat yang nyaman untuk makan bersama keluarga.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+      "city": "Malang",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Saya Suka",
+      "description": "Restoran di Surabaya yang menawarkan pengalaman kuliner yang unik dengan menu yang bervariasi. Cocok untuk pecinta makanan yang suka mencoba hal baru.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+      "city": "Surabaya",
+      "rating": 3.6
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Gigitan Cepat",
+      "description": "Tempat makan cepat saji di Aceh yang menyajikan makanan lezat dengan pelayanan yang cepat dan ramah. Ideal untuk makan siang cepat atau makan malam santai.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+      "city": "Aceh",
+      "rating": 4
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Fairy Cafe",
+      "description": "Kafe di Malang dengan suasana yang magis dan menyenangkan. Menyajikan berbagai minuman dan makanan ringan yang cocok untuk bersantai.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/04",
+      "city": "Malang",
+      "rating": 3.9
+    }
+  ]
+}
